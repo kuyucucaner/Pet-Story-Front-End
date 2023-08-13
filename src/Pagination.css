@@ -1,0 +1,9 @@
+.react-js-pagination .page-link {
+    color: #88aa5b; /* Desired color for the page number links */
+  }
+  
+  .react-js-pagination .page-item.active .page-link {
+    background-color: #88aa5b; /* Desired background color for the active page number link */
+    border-color: #88aa5b; /* Desired border color for the active page number link */
+    color: #fff; /* Desired text color for the active page number link */
+  }

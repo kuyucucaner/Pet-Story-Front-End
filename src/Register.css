@@ -1,0 +1,367 @@
+.tum7-1 {
+    background-color: #4c5e35;
+    padding: 0 !important;
+    flex: 1 1 auto;
+    min-height: 1px;
+    box-sizing: border-box;
+    outline: none !important;
+  }
+  
+  .tum7-2 {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    box-sizing: border-box;
+    outline: none !important;
+    display: block;
+    height: 324.17;
+  }
+  
+  .form-1 {
+    margin-bottom: 1.5rem !important;
+    margin-top: 1.5rem !important;
+    box-sizing: border-box;
+    outline: none !important;
+    display: block;
+  }
+  
+  
+  
+  img {
+    vertical-align: middle;
+    border-style: none;
+    box-sizing: border-box;
+    outline: none !important;
+    height: 101px;
+  }
+  
+  .unut {
+    cursor: pointer;
+    margin-top: 0.5rem !important;
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    padding-right: 12px;
+    padding-left: 12px;
+    box-sizing: border-box;
+    outline: none !important;
+    text-align: right;
+    display: block;
+    text-decoration: none;
+  }
+  
+  
+  .giris {
+    font: 400 15px/24px Roboto, Helvetica Neue, sans-serif;
+    color: white;
+    letter-spacing: normal;
+    margin: 0 0 16px;
+    font-size: 18px !important;
+    margin-bottom: 0.25rem !important;
+    box-sizing: border-box;
+  }
+  
+  .login{
+    background-color: #eaecf0;
+  }
+  
+  .tum {
+    background-color: #eeeeeeb7;
+    display: flex !important;
+    justify-content: center !important;
+    height: 100vh !important;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    box-sizing: border-box;
+    margin-left: -12px;
+    outline: none !important;
+  }
+  
+  .tum-2 {
+    align-self: center !important;
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    padding-right: 12px;
+    padding-left: 12px;
+    box-sizing: border-box;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    outline: none !important;
+  }
+  
+  .container {
+        max-width: 500px;
+        width: 100%;
+        padding-right: 12px;
+        padding-left: 12px;
+        margin-right: auto;
+        margin-left: auto;
+        box-sizing: border-box;
+        outline: none !important;
+    }
+  
+  
+  .tum-3 {
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    display: flex !important;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+    box-sizing: border-box;
+    outline: none !important;
+  }
+  
+  .tum-4 {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    position: relative;
+    width: 100%;
+    padding-right: 12px;
+    padding-left: 12px;
+    flex-shrink: 0;
+    max-width: 100%;
+    margin-top: var(--bs-gutter-y);
+    box-sizing: border-box;
+    outline: none !important;
+    display: block;
+  }
+  
+  .tum-5 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+    box-sizing: border-box;
+  }
+  
+  .tum-6 {
+    padding: 0 !important;
+    flex: 1 1 auto;
+    min-height: 1px;
+    box-sizing: border-box;
+    outline: none !important;
+    display: block;
+  }
+  
+  .tum-7 {
+  
+    margin-bottom: 24px;
+    background-color: #fff;
+    border: 1px solid #eceff5;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border-radius: 0.25rem;
+    box-shadow: 13px 9px 24px -11px #a69ca6 !important;
+    box-sizing: border-box;
+  
+    outline: none !important;
+  }
+  
+  .tum-7-1-1 {
+  
+    border-radius: 2px;
+    border-bottom: 1px solid #eceff5;
+    text-align: center !important;
+    padding: 1rem !important;
+    margin-bottom: 0;
+    background: #4c5e35 !important;
+    border-bottom-color: #fff !important;
+    box-sizing: border-box;
+    outline: none !important;
+    display: block;
+  
+  }
+  
+  .lbl {
+    display: inline-block;
+    color: #656D9A;
+    font-size: 13px;
+    box-sizing: border-box;
+    outline: none !important;
+    font: 14px/20px Roboto, Helvetica Neue, sans-serif;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    letter-spacing: normal;
+    margin-right: 315px;
+    padding-top: 7px;
+    padding-bottom: 15px;
+  
+  }
+  .lbl2 {
+    display: inline-block;
+    color: #656D9A;
+    font-size: 13px;
+    box-sizing: border-box;
+    outline: none !important;
+    font: 14px/20px Roboto, Helvetica Neue, sans-serif;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    letter-spacing: normal;
+    margin-right: 157.5px;
+    padding-top: 7px;
+    padding-bottom: 15px;
+  
+  }
+  .lbl3 {
+    display: inline-block;
+    color: #656D9A;
+    font-size: 13px;
+    box-sizing: border-box;
+    outline: none !important;
+    font: 14px/20px Roboto, Helvetica Neue, sans-serif;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    letter-spacing: normal;
+    padding-top: 7px;
+    padding-bottom: 15px;
+  
+  }
+  
+  .bilgi {
+    width: 100%;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    outline: none !important;
+    display: block;
+  
+  }
+  
+  .kullanici-inp {
+    margin-bottom: 1rem !important;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .kullanici-inp2 {
+    margin-bottom: 1rem !important;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .kullanici-inp2 input {
+    margin-right: 10px; 
+  }
+  .kullanici-input2 {
+    resize: vertical; /* Dikey boyutlandırma */
+    height: 80px; /* İstediğiniz yükseklik değeri */
+    font: 400 14px/20px Roboto, Helvetica Neue, sans-serif;
+    position: relative;
+    flex: 1 1 auto;
+    width: 1%;
+    min-width: 0;
+    padding: 0.375rem 0.75rem;
+    line-height: 1.8;
+    color:  #4c5e35 !important;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #e3eaf6;
+    border-radius: 0.25rem;
+    appearance: auto !important;
+    overflow: visible;
+    margin: 0;
+    font-family: inherit;
+    box-sizing: border-box;
+    outline: none !important;
+    writing-mode: horizontal-tb !important;
+  }
+  
+  .kullanici-input {
+    font: 400 14px/20px Roboto, Helvetica Neue, sans-serif;
+    position: relative;
+    flex: 1 1 auto;
+    width: 1%;
+    min-width: 0;
+    height: calc(1.8em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    line-height: 1.8;
+    color:  #4c5e35 !important;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #e3eaf6;
+    border-radius: 0.25rem;
+    appearance: auto !important;
+    overflow: visible;
+    margin: 0;
+    font-family: inherit;
+    box-sizing: border-box;
+    outline: none !important;
+    writing-mode: horizontal-tb !important;
+  }
+  
+  .kullanici-input:focus {
+    border: 4px solid #4c5e35;
+    border-color: #4c5e35 !important;
+    border-width: 2px;
+  
+  }
+  
+  
+  .enter {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+    margin-bottom: 0 !important;
+    box-sizing: border-box;
+    outline: none !important;
+  }
+  
+  .enter-2 {
+    margin-top: 0.5rem !important;
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+    font: 400 14px/20px Roboto, Helvetica Neue, sans-serif;
+    width: 100%;
+    padding-right: 12px;
+    padding-left: 12px;
+    box-sizing: border-box;
+    outline: none !important;
+    display: block;
+  
+  }
+  
+  .buton {
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    text-align: center;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: .8125rem;
+    line-height: 1.8;
+    border-radius: 0.25rem;
+    position: relative;
+    overflow: hidden;
+    background:  #4c5e35 !important;
+    border-color: #1a3353d9 !important;
+    color: #fff !important;
+    margin: 0;
+    font-family: inherit;
+    box-sizing: border-box;
+    outline: none !important;
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+  
+  }
+  
+  .buton:hover {
+    background: #607c3c !important;
+    border-color: #607c3c !important;
+    color: #fff !important
+  }
+  ::-webkit-input-placeholder { 
+    color: #7184bb;
+  }
+  
